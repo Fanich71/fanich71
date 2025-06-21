@@ -5,8 +5,6 @@
   <b><i>Turning ideas into intelligent systems.</i></b>
 </p>
 
----
-
 <p align="center">
   <img src="banner.png" alt="I love Data Science" />
 </p>
