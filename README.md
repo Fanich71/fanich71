@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="banner.png" alt="I love Data Science" />
-</p>
-
 <h1 align="center">Hi, I'm Alexander Zakharov 👋</h1>
 <h3 align="center">16 y.o. Data Scientist from Moscow Region</h3>
 
 <p align="center">
   <b><i>Turning ideas into intelligent systems.</i></b>
+</p>
+
+---
+
+<p align="center">
+  <img src="banner.png" alt="I love Data Science" />
 </p>
 
 ---
