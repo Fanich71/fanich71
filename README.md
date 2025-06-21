@@ -31,7 +31,7 @@
 
 ### 🏆 Achievements
 
-- 🥉 3rd place in the student track of the **"Following the Animal Trails"** hackathon  
+- 🥉 3rd place in the student track of the **"AI Academy hackathon 2025"**
 
 ---
 
